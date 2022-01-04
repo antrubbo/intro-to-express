@@ -1,4 +1,4 @@
-const magic8Responses = [
+export default [
     "It is certain",
     "It is decidedly so",
     "Without a doubt",
@@ -18,5 +18,4 @@ const magic8Responses = [
     "My sources say no",
     "Outlook not so good",
     "Very doubtful"
-  
 ]
